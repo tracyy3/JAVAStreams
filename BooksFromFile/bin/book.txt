@@ -1,0 +1,4 @@
+Harry Potter and the Chamber of Secrets,1998,251,J.K. Rowling
+Harry Potter and the Order of the Phoenix,2003,766,J.K. Rowling
+Harry Potter and the Half-Blood Prince,2005,607,J.K. Rowling
+Harry Potter and the Deathly Hallows,2007,607,J.K. Rowling
